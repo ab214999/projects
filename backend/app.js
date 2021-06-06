@@ -12,9 +12,7 @@ const { config } = require("process");
 const app = express();
 
 mongoose.connect
-("mongodb+srv://Abishek:5vIcc1q1LmgFKoT6@cluster0.pcaa8.mongodb.net/node-angular?retryWrites=true&w=majority", {useUnifiedTopology: true,
-useNewUrlParser: true
-,useCreateIndex: true} 
+("place Mongo String here"} 
 )
 //?retryWrites=true&w=majority           mongodb+srv://Abishek:5vIcc1q1LmgFKoT6@cluster0.pcaa8.mongodb.net/node-angular?retryWrites=true&w=majority
 .then(() =>{
