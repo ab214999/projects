@@ -14,7 +14,6 @@ const app = express();
 mongoose.connect
 ("place Mongo String here"} 
 )
-//?retryWrites=true&w=majority           mongodb+srv://Abishek:5vIcc1q1LmgFKoT6@cluster0.pcaa8.mongodb.net/node-angular?retryWrites=true&w=majority
 .then(() =>{
     console.log('Connection established to database');
 })
