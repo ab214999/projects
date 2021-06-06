@@ -1,0 +1,8 @@
+{
+    "env": {
+      "MONGO_ATLAS_PW": "5vIcc1q1LmgFKoT6",
+      "JWT_KEY": "secret_this_should_be_longer",
+      "MONGO_URL":"mongodb+srv://Abishek:5vIcc1q1LmgFKoT6@cluster0.pcaa8.mongodb.net/node-angular?retryWrites=true&w=majority"
+    }
+  }
+  
